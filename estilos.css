@@ -1,0 +1,21 @@
+body{
+    background-color: azure;
+}
+.titulo{
+    background-color: rgb(110, 148, 148);
+    text-align: center;
+    border: 2px black;
+}
+.info{
+    background-color: rgb(191, 224, 224);
+    text-align: center;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 50px ;
+}
+.contenedor{
+    height: 1000px;
+    width: 80%px;
+    margin: 0 auto;
+}
